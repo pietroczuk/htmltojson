@@ -274,10 +274,16 @@ const jsonFromHtml = (htmlTags, view = false) => {
           tag: tagChar,
           text: []
         }
-        if (hrefLink.trim() !== '' && tagChar === 'a') {
-          newTag.href = hrefLink;
-          newTag.rel = linkRel;
-          newTag.target = linkTarget;
+        if (tagChar === 'a') {
+          if (hrefLink.trim() !== '') {
+            newTag.href = hrefLink;
+          }
+          if (linkRel.trim() !== '') {
+            newTag.rel = linkRel;
+          }
+          if (linkTarget.trim() !== '') {
+            newTag.target = linkTarget;
+          }
         }
         if (textAlign.trim() !== '') {
           newTag.align = textAlign;
