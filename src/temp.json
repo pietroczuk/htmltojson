@@ -1,0 +1,90 @@
+[
+    {
+        "tag": "p",
+        "text": [
+            {
+                "tag": "span",
+                "text": [
+                    {
+                        "tag": "strong",
+                        "text": [
+                            {
+                                "text": "I. POSTANOWIENIA OGÓLNE"
+                            }
+                        ]
+                    }
+                ],
+                "color": "#cccccc"
+            }
+        ],
+        "align": "center"
+    },
+    {
+        "tag": "ol",
+        "text": [
+            {
+                "tag": "li",
+                "text": [
+                    {
+                        "text": "Sklep Internetowy prowadzony pod adresem internetowym "
+                    },
+                    {
+                        "tag": "a",
+                        "text": [
+                            {
+                                "tag": "strong",
+                                "text": [
+                                    {
+                                        "text": "www.jezuswdomu.pl"
+                                    }
+                                ]
+                            }
+                        ],
+                        "href": "https://www.jezuswdomu.pl"
+                    },
+                    {
+                        "tag": "strong ",
+                        "text": []
+                    },
+                    {
+                        "text": "prowadzony jest przez podmiot gospodarczy pod firmą Dare You Studio Andrzej Pietroczuka wpisanym do Centralnej Ewidencji i Informacji o Działalności Gospodarczej Rzeczypospolitej Polskiej prowadzonej przez ministra właściwego do spraw gospodarki, posiadającą: "
+                    },
+                    {
+                        "tag": "strong",
+                        "text": [
+                            {
+                                "text": "NIP 6030017913, REGON 200852777, "
+                            }
+                        ]
+                    },
+                    {
+                        "text": "adres poczty elektronicznej: "
+                    },
+                    {
+                        "tag": "a",
+                        "text": [
+                            {
+                                "text": "biuro@jezuswdomu.pl"
+                            }
+                        ],
+                        "href": "mailto:biuro@jezuwdomu.pl"
+                    },
+                    {
+                        "text": ", numer telefonu:&nbsp; "
+                    },
+                    {
+                        "tag": "strong",
+                        "text": [
+                            {
+                                "text": "+48 881 575 207, "
+                            }
+                        ]
+                    },
+                    {
+                        "text": "KONTO BANKOWE: 25 1020 5558 0000 8702 3372 3439"
+                    }
+                ]
+            }
+        ]
+    }
+]
