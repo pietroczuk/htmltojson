@@ -1,4 +1,4 @@
-# htmltojson
+# htmltojson - 🔒 safe and easy render html from external api
 CKEditor in react, converts html to json, and vice versa
 
 ## Table of contents
@@ -7,7 +7,10 @@ CKEditor in react, converts html to json, and vice versa
 * [Setup](#setup)
 
 ## General info
-I do not trust dangerouslySetInnerHTML in react. So i decide to find a simple way to display dynamic text (ex. from API) with html syntax for nice looking and SEO. Of course i can set as i imagine html in react but not dynamic syntax. 
+I do not trust dangerouslySetInnerHTML in react. So i decide to find a simple way to display dynamic text (ex. from API) with html syntax for nice looking and SEO. Of course i can set as i imagine html in react but not as dynamic syntax with formating from ex. api. 
+
+[DEMO](http://htmltojson.dareyou.pl/)
+![Editor screanshoot](https://raw.githubusercontent.com/pietroczuk/pietroczuk/main/images/htmltojson.jpg)
 
 The base is simple:
 * use as dummy ritch text editor as i can (future some Copyrighter / SEO can just like that use this)
